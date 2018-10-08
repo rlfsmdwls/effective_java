@@ -1,3 +1,3 @@
-# effective_java
+# MASTER #
 
-### MASTER ###
+### 마스터는 합칠 때 사용 ###
